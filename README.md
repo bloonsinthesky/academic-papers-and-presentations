@@ -1,1 +1,1 @@
-# Academic-papers-and-presentations
+# Academic Papers and Presentations
