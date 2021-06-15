@@ -26,8 +26,8 @@
 
 ## Working Papers and Other Presentations
 
-+ Aguinis, H., **Ji, Y. H.**, & Ronda-Pupo, G. A. The gender gap in research productivity is narrowing but parity remains elusive: An allometric analysis. Under review at Journal of Management. View [working paper](https://github.com/bloonsinthesky/academic-papers-and-presentations/raw/main/Gender%20Research%20Productivity%20v1.3.1.pdf)
-  + Uses ***allometric modeling*** on publication data 
++ Aguinis, H., **Ji, Y. H.**, & Ronda-Pupo, G. A. The gender gap in research productivity is narrowing but parity remains elusive: An allometric analysis. Under review at *Journal of Management*. View [working paper](https://github.com/bloonsinthesky/academic-papers-and-presentations/raw/main/Gender%20Research%20Productivity%20v1.3.1.pdf)
+  + Uses ***allometric modeling*** on research publication data 
 
 + Social Network Analysis Company Presentation. View [slides](https://github.com/bloonsinthesky/academic-papers-and-presentations/raw/main/SNA%20Company%20presentation.pptx)
-  + These slides were created for presentation at a Finnish company from which I collected data for an ongoing project on social network analysis
+  + These slides were created for presentation at a Finnish company from which I collected data for an ongoing *Academy of Finland* project on social network analysis
