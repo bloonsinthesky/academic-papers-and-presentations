@@ -1,5 +1,7 @@
 # Academic Papers and Presentations
 
+This repository contains a selection of peer-reviewed articles, conference papers, and presentations based on my academic research. In I use statistical techniques frequently utilized in the social sciences but less common in data science, such as *structural equation modeling*, *multilevel modeling*, *allometric modeling*, and *social network analysis*. 
+
 ## Peer-Reviewed Publications and Conference Presentations
 
 + Aguinis, H., **Ji, Y. H.**, & Joo, H. (2018). Gender productivity gap among star performers in STEM and other scientific fields. *Journal of Applied Psychology*, *103*(12), 1283-1306. https://doi.org/10.1037/apl0000331
@@ -13,7 +15,7 @@
   + View [symposium papers](https://github.com/bloonsinthesky/academic-papers-and-presentations/raw/main/Group%20Norms%20in%20Virtual%20Work%20-%20New%20Directions%20-%20AOM%202016.pdf) & [slides](https://github.com/bloonsinthesky/academic-papers-and-presentations/raw/main/Y.Ji.%20%26%20S.Hill.%20Culture%2C%20Virtuality%2C%20and%20Norm%20Clarity.%20AOM%202016.pptx)
 
 + **Ji, Y. H.**, Cohen, N. A., Daly, A. J., Finnigan, K., & Klein, K. (2014). The dynamics of voice behavior and leaders' network ties in times of leadership successions. *Academy of Management Proceedings*. https://doi.org/10.5465/ambpp.2014.16324abstract
-  + Uses ***mediation analysis*** using longitudinal sociomatrix and survey data
+  + Uses ***social network analysis** on longitudinal sociomatrix and survey data
   + View [conference paper](https://github.com/bloonsinthesky/academic-papers-and-presentations/raw/main/Dynamics%20of%20voice%20%26%20leader%20ties%20-%20AOM%202014.pdf) & [slides](https://github.com/bloonsinthesky/academic-papers-and-presentations/raw/main/Dynamics%20of%20Voice..Academy.2014.pptx)
 
 + **Ji, Y. H.**, Kolb, D. G., Caza, A., & Collins, P (2012). Adaptive leadership and performance in distributed teams: Addressing ‘wicked’ environments. *Academy of Management Proceedings*. https://doi.org/10.5465/ambpp.2012.14773abstract
