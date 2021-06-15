@@ -1,6 +1,6 @@
 # Academic Papers and Presentations
 
-This repository contains a selection of peer-reviewed articles, conference papers, and presentations based on my academic research. In I use statistical techniques frequently utilized in the social sciences but less common in data science, such as *structural equation modeling*, *multilevel modeling*, *allometric modeling*, and *social network analysis*. 
+This repository contains a selection of peer-reviewed articles, conference papers, and presentations based on my academic research. In these works, I use statistical techniques frequently utilized in the social sciences but less common in data science, such as *structural equation modeling*, *multilevel modeling*, *allometric modeling*, and *social network analysis*. 
 
 ## Peer-Reviewed Publications and Conference Presentations
 
