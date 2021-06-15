@@ -5,7 +5,7 @@
 + Aguinis, H., **Ji, Y. H.**, & Joo, H. (2018). Gender productivity gap among star performers in STEM and other scientific fields. *Journal of Applied Psychology*, *103*(12), 1283-1306. https://doi.org/10.1037/apl0000331
 
     + Uses the ***distribution pitting*** analytic technique on research publication data
-    + This paper was selected as runner-up for the **Saroj Parasuraman Outstanding Publication Award**, by the Academy of Management, recognizing the best peer-reviewed journal article in the field of *gender and diversity* among all those published in calendar year 2018.
+    + This paper was selected as runner-up for the **Saroj Parasuraman Outstanding Publication Award**, by the **Academy of Management**, recognizing the best peer-reviewed journal article in the field of *gender and diversity* among all those published in calendar year 2018.
     + View [published article](https://github.com/bloonsinthesky/academic-papers-and-presentations/raw/main/Aguinis%20Ji%20Joo%202018%20JAP%20Gender%20Productivity%20Gap%20among%20Stars.pdf) & [slides](https://github.com/bloonsinthesky/academic-papers-and-presentations/raw/main/Gender%20Productivity%20Gap%20Among%20Stars_Aalto%20Biz%20Seminar.pptx)
   
 + **Ji, Y. H.**, & Hill, N. S. (2016). The role of team cultural orientation and virtual communication in shaping team norm clarity and its outcomes. *Academy of Management Proceedings*. https://doi.org/10.5465/ambpp.2016.15106symposium
