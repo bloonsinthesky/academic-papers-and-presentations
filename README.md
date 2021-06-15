@@ -32,4 +32,4 @@ This repository contains a selection of peer-reviewed articles, conference paper
   + Uses ***allometric modeling*** on research publication data 
 
 + Social Network Analysis Company Presentation. View [slides](https://github.com/bloonsinthesky/academic-papers-and-presentations/raw/main/SNA%20Company%20presentation.pptx)
-  + These slides were created for presentation at a Finnish company from which I collected data for an ongoing *Academy of Finland* project on social network analysis
+  + These slides were created for presentation at a Finnish company from which I collected data for an ongoing *Academy of Finland* project on social network analysis.
