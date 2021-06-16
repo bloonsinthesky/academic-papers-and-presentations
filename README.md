@@ -32,7 +32,7 @@ This repository contains a selection of peer-reviewed articles, conference paper
 ## Working Papers and Other Presentations
 
 + Aguinis, H., **Ji, Y. H.**, & Ronda-Pupo, G. A. The gender gap in research productivity is narrowing but parity remains elusive: An allometric analysis. 1st round revise-and-resubmit from *Journal of Management*.
-  + Received a 1st round revise-and-resubmit decisino from *Journal of Management* in June 2021
+  + Received a 1st round revise-and-resubmit decision from *Journal of Management* in June 2021
   + Uses ***allometric modeling*** on research publication data over time
   + View [working paper](https://github.com/bloonsinthesky/academic-papers-and-presentations/raw/main/Gender%20Research%20Productivity%20v1.3.1.pdf)
 
