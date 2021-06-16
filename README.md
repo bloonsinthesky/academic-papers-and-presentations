@@ -36,5 +36,4 @@ This repository contains a selection of peer-reviewed articles, conference paper
   + View [working paper](https://github.com/bloonsinthesky/academic-papers-and-presentations/raw/main/Gender%20Research%20Productivity%20v1.3.1.pdf)
 
 + Social Network Analysis Company Presentation.
-  + These slides were created for presentation at a Finnish company from which I collected data for an ongoing *Academy of Finland* project on social network analysis.
-  + View [slides](https://github.com/bloonsinthesky/academic-papers-and-presentations/raw/main/SNA%20Company%20presentation.pptx)
+  + These slides were created for presentation at a Finnish company from which I collected data for an ongoing *Academy of Finland* project on social network analysis. View [slides](https://github.com/bloonsinthesky/academic-papers-and-presentations/raw/main/SNA%20Company%20presentation.pptx)
