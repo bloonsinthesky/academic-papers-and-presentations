@@ -25,6 +25,7 @@ This repository contains a selection of peer-reviewed articles, conference paper
 ## PhD Dissertation
 
 + **Ji, Y. H.** (2017). Understanding the Gender Performance Gap among Star Performers in STEM Fields (Doctoral dissertation). 
+
     + Uses ***distribution pitting*** on research productivity data from over 86,000 individuals
     + View [dissertation](https://github.com/bloonsinthesky/academic-papers-and-presentations/raw/main/PhD%20Thesis%20-%20Gender%20Performance%20Gap%20among%20Star%20Performers%20in%20STEM.pdf)
 
