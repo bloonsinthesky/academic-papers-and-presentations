@@ -11,7 +11,7 @@ This repository contains a selection of peer-reviewed articles, conference paper
     + View [published article](https://github.com/bloonsinthesky/academic-papers-and-presentations/raw/main/Aguinis%20Ji%20Joo%202018%20JAP%20Gender%20Productivity%20Gap%20among%20Stars.pdf) & [slides](https://github.com/bloonsinthesky/academic-papers-and-presentations/raw/main/Gender%20Productivity%20Gap%20Among%20Stars_Aalto%20Biz%20Seminar.pptx)
   
 + **Ji, Y. H.**, & Hill, N. S. (2016). The role of team cultural orientation and virtual communication in shaping team norm clarity and its outcomes. *Academy of Management Proceedings*. https://doi.org/10.5465/ambpp.2016.15106symposium
-  + Uses ***moderated mediation analysis*** on longitudinal student data
+  + Uses ***moderated mediation analysis*** on team-level data
   + View [symposium papers](https://github.com/bloonsinthesky/academic-papers-and-presentations/raw/main/Group%20Norms%20in%20Virtual%20Work%20-%20New%20Directions%20-%20AOM%202016.pdf) & [slides](https://github.com/bloonsinthesky/academic-papers-and-presentations/raw/main/Y.Ji.%20%26%20S.Hill.%20Culture%2C%20Virtuality%2C%20and%20Norm%20Clarity.%20AOM%202016.pptx)
 
 + **Ji, Y. H.**, Cohen, N. A., Daly, A. J., Finnigan, K., & Klein, K. (2014). The dynamics of voice behavior and leaders' network ties in times of leadership successions. *Academy of Management Proceedings*. https://doi.org/10.5465/ambpp.2014.16324abstract
