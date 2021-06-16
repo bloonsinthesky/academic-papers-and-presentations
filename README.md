@@ -24,12 +24,16 @@ This repository contains a selection of peer-reviewed articles, conference paper
 
 ## PhD Dissertation
 
-+ **Ji, Y. H.** (2017). Understanding the Gender Performance Gap among Star Performers in STEM Fields (Doctoral dissertation). View [dissertation](https://github.com/bloonsinthesky/academic-papers-and-presentations/raw/main/PhD%20Thesis%20-%20Gender%20Performance%20Gap%20among%20Star%20Performers%20in%20STEM.pdf)
++ **Ji, Y. H.** (2017). Understanding the Gender Performance Gap among Star Performers in STEM Fields (Doctoral dissertation). 
+    + Uses ***distribution pitting*** on research productivity data from over 86,000 individuals
+    + View [dissertation](https://github.com/bloonsinthesky/academic-papers-and-presentations/raw/main/PhD%20Thesis%20-%20Gender%20Performance%20Gap%20among%20Star%20Performers%20in%20STEM.pdf)
 
 ## Working Papers and Other Presentations
 
-+ Aguinis, H., **Ji, Y. H.**, & Ronda-Pupo, G. A. The gender gap in research productivity is narrowing but parity remains elusive: An allometric analysis. Under review at *Journal of Management*. View [working paper](https://github.com/bloonsinthesky/academic-papers-and-presentations/raw/main/Gender%20Research%20Productivity%20v1.3.1.pdf)
-  + Uses ***allometric modeling*** on research publication data 
++ Aguinis, H., **Ji, Y. H.**, & Ronda-Pupo, G. A. The gender gap in research productivity is narrowing but parity remains elusive: An allometric analysis. Under review at *Journal of Management*.
+  + Uses ***allometric modeling*** on research publication data over time
+  + View [working paper](https://github.com/bloonsinthesky/academic-papers-and-presentations/raw/main/Gender%20Research%20Productivity%20v1.3.1.pdf)
 
-+ Social Network Analysis Company Presentation. View [slides](https://github.com/bloonsinthesky/academic-papers-and-presentations/raw/main/SNA%20Company%20presentation.pptx)
++ Social Network Analysis Company Presentation.
   + These slides were created for presentation at a Finnish company from which I collected data for an ongoing *Academy of Finland* project on social network analysis.
+  + View [slides](https://github.com/bloonsinthesky/academic-papers-and-presentations/raw/main/SNA%20Company%20presentation.pptx)
