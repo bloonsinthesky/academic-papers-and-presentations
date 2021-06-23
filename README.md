@@ -8,7 +8,7 @@ This repository contains a selection of peer-reviewed articles, conference paper
 
     + Uses the ***distribution pitting*** analytic technique on research publication data
     + This paper was selected as runner-up for the **Saroj Parasuraman Outstanding Publication Award**, by the **Academy of Management**, recognizing the best peer-reviewed journal article in the field of *gender and diversity* among all those published in calendar year 2018.
-    + View [published article]("https://bloonsinthesky.github.io/pdf/Aguinis%20Ji%20Joo%202018%20JAP%20Gender%20Productivity%20Gap%20among%20Stars.pdf) & [slides](https://bloonsinthesky.github.io/pdf/Gender%20Productivity%20Gap%20Among%20Stars_Aalto%20Biz%20Seminar.pdf)
+    + View [published article](https://bloonsinthesky.github.io/pdf/Aguinis%20Ji%20Joo%202018%20JAP%20Gender%20Productivity%20Gap%20among%20Stars.pdf) & [slides](https://bloonsinthesky.github.io/pdf/Gender%20Productivity%20Gap%20Among%20Stars_Aalto%20Biz%20Seminar.pdf)
   
 + **Ji, Y. H.**, & Hill, N. S. (2016). The role of team cultural orientation and virtual communication in shaping team norm clarity and its outcomes. *Academy of Management Proceedings*. https://doi.org/10.5465/ambpp.2016.15106symposium
   + Uses ***moderated mediation analysis*** on team-level data
